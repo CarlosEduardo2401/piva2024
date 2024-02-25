@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d8ae7e30-8889-401d-abf7-a377f0daa003" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../aula4/ex12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/ex13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/ex14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/exe1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/exe10..py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/exe11..py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/exe11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/exe12..py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/exe13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/exe2..py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/exe3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/exe4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/exe5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/exe6..py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/exe7..py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/exe8..py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/exe9..py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Classificação_idade.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Idade para votar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Impar ou Par.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Media exame.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mediadiferençaproduto.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Peso ideal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Procedenciaecalculo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Verificar triangulo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../categoriaidade.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../combustivel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../helloworld.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ler 2 algoritimos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maior_entre_3_numeros.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maiorque1000.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../par ou impar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../soma.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tabelaprova.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2WD766A5YIu13OYa4VFHnx6h4Si" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8ae7e30-8889-401d-abf7-a377f0daa003" name="Changes" comment="" />
+      <created>1696255119811</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696255119811</updated>
+    </task>
+    <servers />
+  </component>
+</project>
